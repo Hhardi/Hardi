@@ -9,18 +9,26 @@
 
 </head>
 <body>
-<h1>Hardi Kaiv</h1>
+    <h1>Hardi Kaiv</h1>
 
-<h2>Lühitutvustus</h2>
-<ul>
-    <li>19 aastane</li>
-    <li>Sündinud Võrus</li>
-    <li>Lõpetas Võru Kreutzwaldi Gümnaasiumi</li>
-</ul>
+    <div class="tutv">
 
-<h2>Tehtud tööd</h2>
+    <h2>Lühitutvustus</h2>
+    <ul>
+        <li>19 aastane</li>
+        <li>Sündinud Võrus</li>
+        <li>Lõpetas Võru Kreutzwaldi Gümnaasiumi</li>
+    </ul>
 
-<a href="https://www.codecademy.com/byteBlaster79419">Codecademy</a>
+    </div>
 
+        <div class="img"><img src="media/smile3.gif"></img></div>
+
+                <div class="tehtud">
+
+                <h2>Tehtud tööd</h2>
+
+                    <a href="https://www.codecademy.com/byteBlaster79419">Codecademy</a>
+                </div>
 </body>
 </html>

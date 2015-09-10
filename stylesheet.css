@@ -1,5 +1,5 @@
 body {
-    background-color: greenyellow;
+    background-image: url("media/2.jpg");
 }
 
 h1 {
@@ -7,4 +7,21 @@ h1 {
     text-align: center;
     padding-top: 100px;
     padding-bottom: 86px;
+}
+
+/* kujundus */
+
+.tutv {
+    margin-left: 300px;
+    position: fixed;
+}
+
+.img {
+    position: absolute;
+    padding-left: 853px;
+}
+
+.tehtud {
+    margin-top: 258px;
+    margin-left: 300px;
 }
