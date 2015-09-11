@@ -3,7 +3,8 @@
 <br lang="en">
 <head>
 
-    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <!-- <link type="text/css" rel="stylesheet" href="stylesheet.css"/> -->
+    <link rel="stylesheet" href="stylesheet.css">
     <meta charset="UTF-8">
     <title>Hardi tutvustus</title>
 
@@ -22,7 +23,7 @@
 
     </div>
 
-        <div class="img"><img src="media/smile3.gif"></img></div>
+        <img src="media/4.png"></img>
 
                 <div class="tehtud">
 
@@ -30,5 +31,28 @@
 
                     <a href="https://www.codecademy.com/byteBlaster79419">Codecademy</a>
                 </div>
+
+    <div>
+        <table>
+            <thead>
+                <th colspsan="3">Pealkiri</th>
+            </thead>
+            <tbody>
+                <td>üks</td>
+                <td>üks</td>
+                <td>üks</td>
+                <tr></tr>
+                <td>kaks</td>
+                <td>kaks</td>
+                <td>kaks</td>
+                <tr></tr>
+                <td>kolm</td>
+                <td>kolm</td>
+                <td>kolm</td>
+                <tr></tr>
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>
+

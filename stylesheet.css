@@ -17,15 +17,32 @@ h2 {
 
 .tutv {
     margin-left: 300px;
-    position: fixed;
+    position: absolute;
 }
 
-.img {
+img {
     position: absolute;
-    padding-left: 853px;
+    margin-top: 222px;
+    padding-left: 1013px;
 }
 
 .tehtud {
     margin-top: 258px;
     margin-left: 300px;
 }
+
+/* tabel */
+
+th {
+
+}
+
+table, td {
+    border: 3px solid black;
+}
+
+table {
+    margin-left: 744px;
+    text-align: center;
+}
+
