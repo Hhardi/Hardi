@@ -35,20 +35,17 @@
     <div>
         <table>
             <thead>
-                <th colspsan="3">Pealkiri</th>
+                <th colspsan="3">Huvialad</th>
             </thead>
             <tbody>
-                <td>üks</td>
-                <td>üks</td>
-                <td>üks</td>
+                    <td>Jooksmine</td>
+                    <td>Jalgpall</td>
+
                 <tr></tr>
-                <td>kaks</td>
-                <td>kaks</td>
-                <td>kaks</td>
-                <tr></tr>
-                <td>kolm</td>
-                <td>kolm</td>
-                <td>kolm</td>
+
+                    <td>Uisutamine</td>
+                    <td>Ujumine</td>
+
                 <tr></tr>
             </tbody>
         </table>
